@@ -437,6 +437,13 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
-		}
+		},
+		{
+			"name": "MurderMystery",
+			"desc": "A gamemode where you can be the murderer or dectective!",
+			"jarName": "Murder_v3.3.0-SNAPSHOT.jar",
+			"configName": "MurderMystery"
+		
+		
 	]
 }
